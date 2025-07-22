@@ -27,7 +27,7 @@
 [twitter]: https://x.com/Official_Creamy
 [youtube]: https://www.youtube.com/c/aycreamy
 [instagram]: https://www.instagram.com/ay_creamy
-[linkedin]: https://www.linkedin.com/in/ayomide-oluyide
+[linkedin]: https://www.linkedin.com/in/ayomide-oluyide-a96473171/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
